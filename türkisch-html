@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Türkisch lernen für Anfänger – Einfache Grundlagen</title>
+  <meta name="description" content="Türkisch lernen für Anfänger – In diesem Leitfaden lernst du die Grundlagen der türkischen Sprache, inklusive Vokabeln, Aussprache und Grammatik.">
+  <meta name="keywords" content="Türkisch lernen, Türkisch für Anfänger, Sprache lernen, Türkisch Grundlagen, Türkisch Aussprache, Anfänger Türkisch">
+  <meta name="robots" content="index, follow">
+  <meta name="language" content="de">
+  <meta name="audience" content="all">
+  <link rel="canonical" href="https://www.deinname.de/tuerkisch-lernen-fuer-anfaenger.html">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 30px;
+      background-color: #f7f7f7;
+    }
+    h1, h2, h3 {
+      color: #006699;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Hauptüberschrift mit Keyword -->
+  <h1>Türkisch lernen für Anfänger</h1>
+
+  <p><strong>Türkisch lernen</strong> muss nicht schwer sein. In diesem Artikel lernst du die wichtigsten Grundlagen für einen erfolgreichen Einstieg in die türkische Sprache.</p>
+
+  <h2>Warum Türkisch lernen?</h2>
+  <p>Türkisch ist eine faszinierende Sprache, die von über 80 Millionen Menschen weltweit gesprochen wird. Ob für den Urlaub, die Familie oder den Beruf – es lohnt sich!</p>
+
+  <h2>Grundlagen der türkischen Sprache</h2>
+  <ul>
+    <li>Alphabet: 29 Buchstaben – darunter Ç, Ş, Ğ</li>
+    <li>Keine Artikel („der“, „die“, „das“ gibt es nicht)</li>
+    <li>Die Satzstellung ist Subjekt-Objekt-Verb</li>
+  </ul>
+
+  <h3>Wichtige türkische Wörter für den Alltag</h3>
+  <p><em>Hallo</em> = Merhaba<br>
+     <em>Danke</em> = Teşekkür ederim<br>
+     <em>Wie geht’s?</em> = Nasılsın?<br>
+     <em>Ich heiße …</em> = Benim adım …</p>
+
+  <!-- Beispielbild -->
+  <h2>Ein Blick auf die türkische Sprache</h2>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Map-Turkey.png/800px-Map-Turkey.png" alt="Karte der Türkei – Türkisch lernen für Anfänger" title="Türkei – Türkisch lernen">
+
+  <h2>Tipps zum Lernen</h2>
+  <ol>
+    <li>Nutze Sprachapps wie Duolingo oder Babbel</li>
+    <li>Schau Serien mit Untertiteln</li>
+    <li>Übe jeden Tag 10 Minuten</li>
+  </ol>
+
+  <!-- SEO-Kommentar -->
+  <!-- Diese Seite wurde für das Keyword "Türkisch lernen für Anfänger" optimiert. -->
+
+  <footer>
+    <p>&copy; 2025 Melis Ali – Alle Rechte vorbehalten.</p>
+  </footer>
+
+</body>
+</html>
